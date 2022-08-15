@@ -1,0 +1,17 @@
+#Variables
+#player_name = 'Dan'
+#player_attack = 10
+#player_heal = 16
+#health = 100
+
+# lists
+#player = ['Dan', 10, 16, 100]
+
+#Dictionaries work with key value pairs
+player = {'name': 'Dan', 'attack': 10, 'heal': 16, 'health': 100}
+
+
+
+
+#We can access the list with an index of the list i.e 0 = dan
+print(player['name'])
